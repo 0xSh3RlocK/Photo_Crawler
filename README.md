@@ -1,2 +1,2 @@
 # Photo-Crawler
-Script that extratct all photos from site just give it the url 
+Script that extratct all photos and Links from site just give it the url.
